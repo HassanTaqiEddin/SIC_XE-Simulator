@@ -1,0 +1,7 @@
+!! I/O 'F1'
+This is a rainy day!!
+
+!! I/O '05'
+Renewable energy is energy generated from natural resources such as 
+sunlight, wind, rain, tides, and geothermal heat, which are renewable (naturally replenished).
+

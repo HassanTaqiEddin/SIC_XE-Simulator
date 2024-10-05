@@ -1,0 +1,46 @@
+!!I/O '05'
+Renewable energy is energy generated from natural resources such as 
+sunlight, wind, rain, tides, and geothermal heat, which are renewable (naturally replenished).
+
+!! Registers
+A=000000000000000000000001	0x00000001
+X=000000000000000000000000	0x00000000
+L=000000000000000000000000	0x00000000
+PC=00000000000100011111		0x0000011F
+SW=000000000000000000000010	0x00000002
+B=000000000000100101100001	0x00000961
+S=000000000000000000110001	0x00000031
+T=000000000000000000110001	0x00000031
+
+!! Memory
+Memory[100] = 00000001	Inhexa = 01
+Memory[101] = 00000000	Inhexa = 00
+Memory[102] = 00110000	Inhexa = 30
+Memory[103] = 00011001	Inhexa = 19
+Memory[104] = 00000000	Inhexa = 00
+Memory[105] = 00000001	Inhexa = 01
+Memory[106] = 00001111	Inhexa = 0F
+Memory[107] = 00100000	Inhexa = 20
+Memory[108] = 00000011	Inhexa = 03
+Memory[109] = 01101011	Inhexa = 6B
+Memory[10A] = 00100000	Inhexa = 20
+Memory[10B] = 00000000	Inhexa = 00
+Memory[10C] = 10011000	Inhexa = 98
+Memory[10D] = 00110000	Inhexa = 30
+Memory[10E] = 10101100	Inhexa = AC
+Memory[10F] = 00110100	Inhexa = 34
+Memory[110] = 10101100	Inhexa = AC
+Memory[111] = 00000011	Inhexa = 03
+Memory[112] = 10101100	Inhexa = AC
+Memory[113] = 01000101	Inhexa = 45
+Memory[114] = 10011100	Inhexa = 9C
+Memory[115] = 00000000	Inhexa = 00
+Memory[116] = 11100001	Inhexa = E1
+Memory[117] = 00000000	Inhexa = 00
+Memory[118] = 00000101	Inhexa = 05
+Memory[119] = 11011001	Inhexa = D9
+Memory[11A] = 00000000	Inhexa = 00
+Memory[11B] = 00000101	Inhexa = 05
+Memory[11C] = 11011101	Inhexa = DD
+Memory[11D] = 00000000	Inhexa = 00
+Memory[11E] = 00000101	Inhexa = 05

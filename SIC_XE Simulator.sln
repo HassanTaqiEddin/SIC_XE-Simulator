@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SIC_XE Simulator", "SIC_XE Simulator.vcxproj", "{7A72B87B-FCEE-408D-B96E-DF64C9880257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A72B87B-FCEE-408D-B96E-DF64C9880257}.Debug|x64.ActiveCfg = Debug|x64
+		{7A72B87B-FCEE-408D-B96E-DF64C9880257}.Debug|x64.Build.0 = Debug|x64
+		{7A72B87B-FCEE-408D-B96E-DF64C9880257}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A72B87B-FCEE-408D-B96E-DF64C9880257}.Debug|x86.Build.0 = Debug|Win32
+		{7A72B87B-FCEE-408D-B96E-DF64C9880257}.Release|x64.ActiveCfg = Release|x64
+		{7A72B87B-FCEE-408D-B96E-DF64C9880257}.Release|x64.Build.0 = Release|x64
+		{7A72B87B-FCEE-408D-B96E-DF64C9880257}.Release|x86.ActiveCfg = Release|Win32
+		{7A72B87B-FCEE-408D-B96E-DF64C9880257}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {868BF6C9-410A-469F-91F8-615D7F8E166B}
+	EndGlobalSection
+EndGlobal
